@@ -105,4 +105,10 @@ This project is focused on detecting fraudulent credit card transactions using a
 ---
 
 ## 🗂️ Project Structure
+creditcard_fraud_detection/
+│
+├── credit_fraud_detection.ipynb # Jupyter Notebook
+├── model.pkl # Trained model file
+├── requirements.txt # Libraries used
+└── README.md # Project description
 
